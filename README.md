@@ -1,3 +1,3 @@
 # Test
 
-![수석부회장후보_허준_선거공약](https://github.com/YJKaN/Quantum-computing/assets/110881339/42c3e594-f9d0-4b5d-bedf-fce60aecf1a0)
+![수석부회장후보_허준_선거공약](https://github.com/YJKaN/Test/assets/110881339/8cc2898d-8a55-4eb1-a8d6-1c196200eb48)
